@@ -4,7 +4,7 @@ Samostatná hra v čistém HTML, CSS a JavaScriptu. Funguje bez databáze a bez 
 
 ## Co hra obsahuje
 
-- pixelové postavy Martina a Poli,
+- pixelové postavy Mikuláša a Poli,
 - heslo `2703`,
 - výběr jednoho ze tří dárků,
 - všechny dárky otevřou stejný dopis,
