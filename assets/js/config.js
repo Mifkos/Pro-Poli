@@ -6,10 +6,10 @@ window.POLI_GAME = {
   herName: "Poli",
   yourName: "Mikuláš",
   letter: [
-    "2703 není jen heslo. Je to datum, které mi připomíná, že některé dny dokážou změnit celý svět, aniž by si toho svět vůbec všiml.",
-    "Od té doby mám vedle sebe člověka, se kterým jsou obyčejné chvíle najednou důležité. Smích, ticho, malé blbosti, společné plány i dny, kdy všechno není dokonalé. Právě tyhle skutečné věci pro mě znamenají nejvíc.",
-    "Mám rád tvoje černé vlasy, tvoji ofinu, tvoje šaty, ale hlavně to, jaká jsi. Děkuju ti za každý den, kdy můžu být součástí tvého života.",
-    "Ať se kolem nás děje cokoli, jednu věc bych si vybral znovu: tebe."
+    "od 27.3.2026 , kdy začal náš společný příběh na lavičce v Grébovce, se můj svět neskutečně proměnil. Každý den po tvém boku mi připomíná, jaké mám obrovské štěstí, že tě mám.",
+    "Tvůj úsměv je pro mě nejkrásnějším okamžikem celého dne, tvůj smích je ta nejkrásnější melodie pro mé uši.  Děkuji ti za všechny krásné chvíle, které jsme spolu už zažili, za tvoji neuvěřitelnou energii, podporu a za to jaká jsi. S tebou je všechno jednodušší, krásnější a dává smysl.",
+    "Jsi pro mě moc důležitá a neumím si představit bez tebe svůj život. Těším se na všechny nové okamžiky, které zažiju s tebou Boba.",
+    "S láskou,"
   ],
-  signature: "S láskou, Mikuláš"
+  signature: "Tvůj Miki."
 };
